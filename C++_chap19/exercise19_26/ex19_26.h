@@ -1,4 +1,5 @@
 #ifndef EX19_26_H
+#define EX19_26_H
 #include"stdio.h"
 int compute(int*,int){
     printf("nt compute(int*,int)\n");
