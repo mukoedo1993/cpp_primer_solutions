@@ -1,0 +1,8 @@
+is.get(sink,size,delim)
+Reads up to size bytes from is and stores them in the character array beginning at the
+address pointed to by sink. Reads until encountering the delim character or until
+it has read size bytes or encounters end-of-file. If delim is present, it is left on the input
+stream and not read into sink.
+
+is.getline(sink, size, delim)
+Same behavior as the three-argument version of get but read and discards delim.

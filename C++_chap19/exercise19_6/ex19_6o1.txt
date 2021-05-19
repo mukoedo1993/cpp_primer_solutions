@@ -1,0 +1,952 @@
+
+Our first requirement: 
+Time: 21:42:11
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 21:47:18
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 21:47:59
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 21:50:12
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 21:52:21
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 21:52:55
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 21:57:41
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 21:57:51
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 21:57:59
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 21:58:09
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 22:01:18
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 22:05:09
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 22:06:29
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+
+Our first requirement: 
+Time: 22:06:52
+Date: Nov 18 2020
+
+((a & to) | ~(is)) occurs 53 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 4)segment of the course on general penology and has been propped up with a substantial body of social 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 6)during a journey; first-time arrests and repeats; individual and group arrests. Arrests are 
+	(line 7)distinguished by the degree of surprise required, the amount of resistance expected (even though in 
+	(line 8)tens of millions of cases no resistance was expected and in fact there was none). Arrests are also 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 13)
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 15)subject for correspondence-school law students in Alma-Ata. Its author praises highly those police 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 17)cubic yards of firewood, or two loads of hay; cleaned the snow from an entire collective-farm 
+	(line 18)vegetable plot, dismantled brick ovens, dug up cesspools, checked out toilet bowls, looked into 
+	(line 19)doghouses, chicken coops, birdhouses, tore apart mattresses, ripped adhesive tape off people's bodies 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 21)with a body search (during the course of the search the arrested person might have grabbed up 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 23)at a different time of day and carry out the search all over again.] 
+	(line 24)
+	(line 25)No, no: arrests vary widely in form. In 1926 Irma Mendel, a Hungarian, obtained through the 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 27)
+	(line 28)
+	(line 29)
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 32)Kuznetsky Most, the plump-cheeked, redheaded beauty Anna Skripnikova, who had just bought 
+	(line 33)some navy-blue material for a dress, climbed into a hansom cab with a young man-about-town, you 
+	(line 34)can be sure it wasn't a lovers' tryst at all, as the cabman understood very well and showed by his 
+	(line 35)frown (he knew the Organs don't pay). It was an arrest. In just a moment they would turn on the 
+	(line 36)Lubyanka and enter the black maw of the gates. And if, some twenty-two springs later. Navy 
+	(line 37)Captain Second Rank Boris Burkovsky, wearing a white tunic and a trace of expensive eau de 
+	(line 38)cologne, was buying a cake for a young lady, do not take an oath that the cake would ever reach the 
+	(line 39)young lady and not be sliced up instead by the knives of the men searching the captain and then 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 41)journey, or arrest in the middle of a crowd has ever been neglected in our country. However, it has 
+	(line 42)always been clean-cut — and, most surprising of all, the victims, in cooperation with the Security 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 44)witnessing the death of the condemned. 
+	(line 45)
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 49)milieu — away from his family and colleagues, from those who share his views, from any hiding 
+	(line 51)the military or the Party were sometimes first given new assignments, ensconced in a private railway 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 57)only two hours till train time, and he scolds his wife for being too slow. He arrives at the station with 
+	(line 59)young man: "Don't you remember me, Pyotr Ivanich?" Pyotr Ivanich has difficulty remembering: 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+	(line 62)Pyotr Ivanich's wife: "You must forgive us. I'll keep him only one minute." The wife accedes, and 
+	(line 63)trustingly the husband lets himself be led away by the arm — forever or for ten years! 
+
+Our second requirement: 
+((a & to) & ~(is)) occurs 6 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 12)send the old folks to a labor camp too. 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 

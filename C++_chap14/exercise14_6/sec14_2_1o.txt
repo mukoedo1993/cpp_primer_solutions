@@ -1,0 +1,9 @@
+bookNo is:std
+ units sold: 12
+revenue is: 187.2
+bookNo is:stb
+ units sold: 13
+revenue is: 191.1
+bookNo is:stk
+ units sold: 14
+revenue is: 235.2

@@ -1,0 +1,6 @@
+exercise14_27AND28:
+https://github.com/mukoedo1993/All_files/tree/master/C%2B%2B_chap14/sec14_6_increment_and_decrement_operators
+
+exercise 14_29:
+Q: We did not define a const version of the incmrenet and decrement operators. Why not?
+A: Because we need to change it. The increment/decrement operator will change the object, thus they cannot be used by a const object.

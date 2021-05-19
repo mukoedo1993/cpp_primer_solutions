@@ -1,0 +1,1 @@
+strcpy function is needed.

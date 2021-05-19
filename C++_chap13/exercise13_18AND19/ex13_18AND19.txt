@@ -1,0 +1,55 @@
+Name is: Yoshida
+Identifier is: i
+data is:2
+
+
+Name is: Yoshida
+Identifier is: i
+data is:2
+
+
+Name is: Sekkusu
+Identifier is: ii
+data is:2
+
+
+Name is: sakura
+Identifier is: iii
+data is:3
+
+
+Name is: sakura
+Identifier is: iiii
+data is:4
+
+
+Name is: sakura
+Identifier is: iiiii
+data is:5
+
+
+Name is: sakura
+Identifier is: iiiiii
+data is:6
+
+
+Name is: sakura
+Identifier is: iiiiiii
+data is:7
+
+
+Name is: jigoku
+Identifier is: iiiiiiii
+data is:9
+
+
+Name is: jigoku
+Identifier is: ccccccccc
+data is:9
+
+
+Name is: shojo
+Identifier is: iiiiiiiiii
+data is:11
+
+

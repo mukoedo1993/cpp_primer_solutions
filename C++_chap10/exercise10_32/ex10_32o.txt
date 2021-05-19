@@ -1,0 +1,24 @@
+First sale for this kind of item: 0-201-12345-X 3 60 20
+In total:  29 513 17.6897
+
+
+First sale for this kind of item: 0-202-12345-X 2 51 25.5
+In total:  4 102 25.5
+
+
+First sale for this kind of item: 0-203-12345-X 4 40 10
+In total:  13 145 11.1538
+
+
+First sale for this kind of item: 0-204-12345-X 1 40 40
+In total:  1 40 40
+
+
+First sale for this kind of item: 0-205-12345-X 5 15 3
+In total:  20 60 3
+
+
+First sale for this kind of item: 0-206-12345-X 3 72 24
+In total:  3 72 24
+
+

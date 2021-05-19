@@ -1,0 +1,3 @@
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap16/sec16_4_1_writing_a_variadic_function_template.cpp
+
+func114 is my test for this exercise.

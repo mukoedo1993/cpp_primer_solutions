@@ -1,0 +1,40 @@
+It is 1th(st,nd,rd) of data we enter. 
+Orignial data is: 4/18/1994
+Month is:4. Year is:1994. Day is:18. 
+
+It is 2th(st,nd,rd) of data we enter. 
+Orignial data is: Jan 28,1930
+Month is:1. Year is:1930. Day is:28. 
+
+It is 3th(st,nd,rd) of data we enter. 
+Orignial data is: Feb 29,1990
+Month is:2. Year is:1990. Day is:29. 
+
+It is 4th(st,nd,rd) of data we enter. 
+Orignial data is: February 27,1931
+Month is:2. Year is:1931. Day is:27. 
+
+It is 5th(st,nd,rd) of data we enter. 
+Orignial data is: June 4,1984
+Month is:6. Year is:1984. Day is:4. 
+
+It is 6th(st,nd,rd) of data we enter. 
+Orignial data is: December 13,2018
+Month is:12. Year is:2018. Day is:13. 
+
+It is 7th(st,nd,rd) of data we enter. 
+Orignial data is: 5/12/2008
+Month is:5. Year is:2008. Day is:12. 
+
+It is 8th(st,nd,rd) of data we enter. 
+Orignial data is: 6/13/2019
+Month is:6. Year is:2019. Day is:13. 
+
+It is 9th(st,nd,rd) of data we enter. 
+Orignial data is: 11/25/2018
+Month is:11. Year is:2018. Day is:25. 
+
+It is 10th(st,nd,rd) of data we enter. 
+Orignial data is: 12/6/183
+Month is:12. Year is:183. Day is:6. 
+

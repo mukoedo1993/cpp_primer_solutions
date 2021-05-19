@@ -1,0 +1,5 @@
+Q: Explain in detail what happens in the assignments of the HasPtr objects on page 541. In particular, describe step by step what happens to values of hp, hp2, and of the rhs 
+parameter in the HasPtr assignment operator.
+A: rhs are nonreference, so they are both copy initialization.
+When hp=hp2, hp2 is a lvalue, so the copy constructor is called.
+When hp=std::move(hp2),rhs now is an rvalue, so the move constructor is called.

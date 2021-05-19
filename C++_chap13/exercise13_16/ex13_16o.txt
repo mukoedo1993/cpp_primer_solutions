@@ -1,0 +1,8 @@
+81
+98
+45
+We use the synthesized copy constructor on the below part, the defined copy constructor on the above part.
+
+81
+81
+81

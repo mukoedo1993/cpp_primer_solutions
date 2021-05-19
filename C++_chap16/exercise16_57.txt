@@ -1,0 +1,7 @@
+https://github.com/Mooophy/Cpp-Primer/blob/master/ch16/ex16.56.57/main.cpp
+
+Q:Compare your variadic version of errorMsg to the error_msg function in p.220. WHat are the advantages and disadvantages of each approach?
+
+A:
+errorMsg, variadic template function, is much more flexible, which allows data of different types as parameters.
+But, error_msg, is much less flexible, they are put into a initializer_list, so they must have same type or at least convertible.

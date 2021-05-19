@@ -1,0 +1,2 @@
+Q: Why did we use postfix increment in the call to construct inside push_back? What would happen if it used the prefix increment?
+A: If, unfortunately so, the original location of elements will be skipped and unconstructed. At the end, the first_free will also be constructed.

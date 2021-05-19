@@ -1,0 +1,14 @@
+When we define a class, we specify--explicitly or implicitly--what happens when objects of that class type
+are copied, moved, assigned, and destroyed. A class controls these operations by defining five special member functions.
+1: copy constructor
+2: copy-assignment operator
+3: move constructor
+4: move-assignment constructor
+5: destructor
+
+1: The copy and move constructors define what happens when an object is initialized from another object of the same type.
+2: The copy and move-assignment operators define what happens when we assign an object of a class type to another object of
+that same class type.
+3:The destructor defines what happens when an object of the type ceases to exist.
+4:copy-control: these operations
+

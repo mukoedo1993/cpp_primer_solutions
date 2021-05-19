@@ -1,0 +1,9 @@
+convert ranking(on parameters of two namesake function)
+1: An exact match, An exact match happens when:
+(1): The argument and parameters types are identical.
+(2): The argument is converted from an array or function type to the corresponding pointer type.
+(3): A top-level const is added to or discarded from the argument.
+2: Match through a const conversion.
+3:Match through a promotion(page 160)
+4:Match through an arithmetic(page 159)or pointer conversion(nullptr could be converted to any pointer type)(page 161)
+5:Match through a class-type conversion(page 579)

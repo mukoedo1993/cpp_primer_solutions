@@ -1,0 +1,7 @@
+sa 250 3.8
+sa 200 3.78
+asahara 210 4.5
+asahara 211 4.8
+asahara 112 8.8
+asahara 231 4.7
+kao 156 4.3

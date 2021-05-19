@@ -1,0 +1,2 @@
+Q: How mant operands may an overloaded function-call operator take?
+A: Literally, any number.

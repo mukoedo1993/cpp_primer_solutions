@@ -1,0 +1,7 @@
+Each constructor uses its constructor initializer list to initialize its data member to point to a dynamically allocated vector.
+
+The default constructor allocates an empty vector:
+//lue4
+
+//The constructor that takes an initializer_list passes its parameter to the coresponding vector constructor. That constructor initializes the vector's elements
+by copying the values in the list.

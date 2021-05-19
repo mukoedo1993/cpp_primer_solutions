@@ -1,0 +1,5 @@
+exercise 9-16:output:
+We compare: vector and list . 
+Tip:Update your data on the input file, then you can restart a experiment!
+Vector > list!
+

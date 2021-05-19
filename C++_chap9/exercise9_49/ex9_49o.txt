@@ -1,0 +1,2 @@
+Target: find the largest word without d,f,p or g:
+The longest word that fits both requirements is: communication.

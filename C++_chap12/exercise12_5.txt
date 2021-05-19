@@ -1,0 +1,11 @@
+Q: We did not make the constructor that takes an initializer_list explicit.(Page 296). Discuss the pros and cons of this design.
+A：Pros:
+1: The compiler will not use automatic conversion.
+2： We could understand clearly what we have done, which class we have used.
+
+B: cons:
+1: We will always use the constructor to create a temporary Strblob object.
+2: cannot use the copy form of initialization with an explicit constructor. Difficult to use.
+
+Reference:
+https://github.com/Mooophy/Cpp-Primer/blob/master/ch12/README.md

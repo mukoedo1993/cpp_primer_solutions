@@ -1,0 +1,19 @@
+
+Item's ISBN is:isl;  We have sold 64 in total. The revenue is: 3308. The average price is: 51.6875
+
+Item's ISBN is:is3;  We have sold 50 in total. The revenue is: 2926. The average price is: 58.52
+
+Item's ISBN is:tdk;  We have sold 12 in total. The revenue is: 161.4. The average price is: 13.45
+
+Item's ISBN is:isl;  We have sold 64 in total. The revenue is: 3308. The average price is: 51.6875
+
+Item's ISBN is:is3;  We have sold 50 in total. The revenue is: 2926. The average price is: 58.52
+
+Item's ISBN is:tdk;  We have sold 12 in total. The revenue is: 161.4. The average price is: 13.45
+
+Item's ISBN is:isl;  We have sold 64 in total. The revenue is: 3308. The average price is: 51.6875
+
+Item's ISBN is:is3;  We have sold 50 in total. The revenue is: 2926. The average price is: 58.52
+
+Item's ISBN is:tdk;  We have sold 12 in total. The revenue is: 161.4. The average price is: 13.45
+

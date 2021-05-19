@@ -1,0 +1,59 @@
+For exercise 11_12:
+The string is: swine; The interger is: 12
+
+The string is: yaju; The interger is: 13
+
+The string is: iinoshi; The interger is: 189
+
+The string is: shinogami; The interger is: 387
+
+The string is: dead_end; The interger is: 1387
+
+The string is: Fuhsiangrian; The interger is: 4399
+
+The string is: One_thumb_rule; The interger is: 70100
+
+The string is: K.O.; The interger is: 0
+
+The string is: dead_end; The interger is: 135
+
+
+
+For exercise 11_13: One more method:
+The string is: swine; The interger is: 12
+
+The string is: yaju; The interger is: 13
+
+The string is: iinoshi; The interger is: 189
+
+The string is: shinogami; The interger is: 387
+
+The string is: dead_end; The interger is: 1387
+
+The string is: Fuhsiangrian; The interger is: 4399
+
+The string is: One_thumb_rule; The interger is: 70100
+
+The string is: K.O.; The interger is: 0
+
+The string is: dead_end; The interger is: 135
+
+For exercise 11_13: The last method:
+The string is: swine; The interger is: 12
+
+The string is: yaju; The interger is: 13
+
+The string is: iinoshi; The interger is: 189
+
+The string is: shinogami; The interger is: 387
+
+The string is: dead_end; The interger is: 1387
+
+The string is: Fuhsiangrian; The interger is: 4399
+
+The string is: One_thumb_rule; The interger is: 70100
+
+The string is: K.O.; The interger is: 0
+
+The string is: dead_end; The interger is: 135
+

@@ -1,0 +1,7 @@
+http://www.cplusplus.com/reference/vector/vector/back/
+Return value
+A reference to the last element in the vector.
+
+If the vector object is const-qualified, the function returns a const_reference. Otherwise, it returns a reference.
+
+Member types reference and const_reference are the reference types to the elements of the vector (see member types).

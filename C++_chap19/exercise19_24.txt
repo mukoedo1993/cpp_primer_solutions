@@ -1,0 +1,23 @@
+Based on the code of exercise19_22, I see:
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap19/exercise19_22.cc
+
+copy assignment:
+1: According to the case, we will use:
+if((tok==t.tok==STR))
+    sval=t.sval;
+    else if(tok==t.tok==ITEM)
+    item=t.item;
+    else 
+    copyUnion(t);
+    
+    And then:
+    tok=t.tok;//update the this->tok
+    return *this;//return back 
+    
+Move assignment:
+We will finish our assignment on the first step:
+ if(this==&t){std::cout<<"Warning: move oneself!\n";
+        return *this;}
+        
+        
+    

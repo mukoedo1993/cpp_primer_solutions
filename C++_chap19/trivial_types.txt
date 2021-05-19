@@ -1,0 +1,2 @@
+See:
+http://www.cplusplus.com/reference/type_traits/is_trivial/

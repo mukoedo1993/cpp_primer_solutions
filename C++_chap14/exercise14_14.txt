@@ -1,0 +1,3 @@
+Question: Why do you think it is more efficient to define operator+ to call operator += rather than the other way around?
+Answer: operator+= would use an unnecessary temporary object if it were implemented using operator+, as you can see in the first line of the operator+ example.
+Reference: https://stackoverflow.com/questions/21071167/why-is-it-more-efficient-to-define-operator-to-call-operator-rather-than-the

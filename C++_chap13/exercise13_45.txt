@@ -1,0 +1,3 @@
+Q: Distinguish between an rvalue reference and an lvalue reference.
+A: rvalue reference: an rvalue reference is a reference that must be bound to an rvalue. &&
+lvalue reference: is a reference that must be bound to a lvalue. &

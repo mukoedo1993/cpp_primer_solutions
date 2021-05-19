@@ -1,0 +1,14 @@
+Ordered v Unordered Associative Containers
+Ordered Associative Container
+1:Standard Traversal encounters elements in sorted order
+2:Order predicate may be specified
+3:Default order predicate is "less than"(ascending), defined using operator< for the element type
+4:Popular implementations: OrderedVector, BinarySearchTree
+5:Search operations required to have O(log n) runtime
+6:Insert, Remove operations should either be seldom used or have O(log n) runtime
+
+
+Unordered Associative Container
+1:Standard Traversal encounters elements in unspecified order
+2:Search, Insert, Remove operations should have average-case constant runtime
+3:Popular implementations use hashing

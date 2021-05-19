@@ -1,0 +1,16 @@
+Case 0: The old line is: Its_dangerous_to_drive_thru_the_gatethugatethrough
+The old string is:thu. The new string is:though
+Our new string is: Its_dangerous_to_drive_thru_the_gatethoughgatethrough
+
+Case 1: The old line is: side
+The old string is:si. The new string is:de
+Our new string is: dede
+
+Case 2: The old line is: Psi_thought
+The old string is:Psi. The new string is:Htlr
+Our new string is: Htlr_thought
+
+Case 3: The old line is: yendereren
+The old string is:re. The new string is:ren
+Our new string is: yenderenrenn
+

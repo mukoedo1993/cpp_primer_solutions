@@ -1,0 +1,52 @@
+Family's parent name is:Germanic
+Family's children's names are:English; Dutch; German; Danish; Icelandic; 
+
+
+Family's parent name is:IndoEuropean
+Family's children's names are:Slavic; Germanic; Latin; Iranian; Hindi; 
+
+
+Family's parent name is:Japonic
+Family's children's names are:Okinawa; Tokyo_style; 
+
+
+Family's parent name is:Latin
+Family's children's names are:French; Italian; Romanian; Spanish; Portuguese; Catalonian; 
+
+
+Family's parent name is:Latin
+Family's children's names are:Mexican; Argentine; 
+
+
+Family's parent name is:Node
+Family's children's names are:LeftChild; RightChild; 
+
+
+Family's parent name is:SinoTibetan
+Family's children's names are:Hsiang; Kom; Hakken; Taiwanese; Cantonese; 
+
+
+Family's parent name is:Slavic
+Family's children's names are:Belarusian; Russian; Polish; 
+
+
+Family's parent name is:Su
+Family's children's names are:Suxun; Suzhe; 
+
+
+Family's parent name is:Su
+Family's children's names are:Ri; Gou; 
+
+
+Family's parent name is:Uralic
+Family's children's names are:Hungary; 
+
+
+Family's parent name is:Wangxizhi
+Family's children's names are:WangXianZhi; 
+
+
+Family's parent name is:Wangxizhi
+Family's children's names are:Wong; 
+
+

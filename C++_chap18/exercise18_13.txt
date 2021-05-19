@@ -1,0 +1,4 @@
+Q: When might you use an unnamed namespace? 
+A: Prior to the introduction of namespaces, programs declared global names as static
+to make them local to a file. The use of file statics is inherited from C. In C, a global entity
+declared static is invisible outside the file in which it is declared.

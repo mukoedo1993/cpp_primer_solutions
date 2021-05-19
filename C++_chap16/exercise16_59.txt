@@ -1,0 +1,3 @@
+Q: Assuming s is a string, explain svec.empalce_back(s).
+
+A: It works in the same way push_back(s) works.

@@ -1,0 +1,14 @@
+For each of the three following declarations of combine, explain what happens if we call 
+i.combine(s), where i is a Sales_data and s is a string:
+Q(a): Sales_data &combine (Sales_data);
+A(a) Sales_data &combine(Sales_data); The code works correct. 
+It will first convert s to Sales_data, then copy that temporary into the parameter of combine.
+
+Q(b):Sales_data &combine(Sales_data&)
+A(b) Sales_data &combine(Sales_data&); The code is wrong. 
+It will first convert s to Sales_data, then pass the reference to that temporary into the parameter of combine, but passing a reference to a temporary is error.
+
+Q(c):
+A(c) Sales_data &combine(const Sales_data&) const
+The code could not compile, because it should not be a const member function. 
+It will first convert s to Sales_data, then pass the const reference to that temporary into the parameter of combine.

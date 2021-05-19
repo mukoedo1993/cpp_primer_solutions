@@ -1,0 +1,30 @@
+Number entered successfully!
+The number of size is:256.
+The capacity is:256The size is: 256
+After reserve(1024), the capacity is: 1024. The size is: 256
+
+
+Number entered successfully!
+The number of size is:512.
+The capacity is:512The size is: 512
+After reserve(1024), the capacity is: 1024. The size is: 512
+
+
+Number entered successfully!
+The number of size is:1000.
+The capacity is:1000The size is: 1000
+After reserve(1024), the capacity is: 1024. The size is: 1000
+
+
+Number entered successfully!
+The number of size is:1048.
+The capacity is:1048The size is: 1048
+After reserve(1024), the capacity is: 1048. The size is: 1048
+
+
+Number entered successfully!
+The number of size is:1048.
+The capacity is:1048The size is: 1048
+After reserve(1024), the capacity is: 1048. The size is: 1048
+
+

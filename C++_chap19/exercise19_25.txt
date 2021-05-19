@@ -1,0 +1,4 @@
+Q: Write assignment operators that take values of each type in the union.
+See:
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap19/exercise19_22.cpp
+Notice that Sales_data is also dealt with properly here.

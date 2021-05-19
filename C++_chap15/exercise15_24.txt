@@ -1,0 +1,3 @@
+Q: What kinds of classes need a virtual destructor? What operations must a virtual destructor perform?
+A1: A base class almost always needs a destructor. 
+A2: The destructor needs to be virtual to allow objects in the inheritance hierarchy to be dynamically allocated and destroyed.

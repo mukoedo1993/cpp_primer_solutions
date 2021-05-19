@@ -1,0 +1,1 @@
+Screenshot shows the result.

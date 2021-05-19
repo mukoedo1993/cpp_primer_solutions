@@ -1,0 +1,8 @@
+
+//The rand function has several problems: Many, if not most, programs need random
+//numbers in a different range from the one produced by rand.
+
+//The random-number library, defined in the random header, solves these problems through
+//a set of corperating classes: random-number engines and random number distribution classes.
+
+

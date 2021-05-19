@@ -1,0 +1,10 @@
+vint=={ 1,2,3,4,5,6,7,8,9 } 
+ original vint1 is{13,127,89};
+ vint1:front_inserter
+9 8 7 6 5 4 3 2 1 13 127 89 
+vint2:back_inserter
+13 127 89 1 2 3 4 5 6 7 8 9 
+vint3:inserter at begin()
+1 2 3 4 5 6 7 8 9 13 127 89 
+vint4:inserter at end()
+13 127 89 1 2 3 4 5 6 7 8 9 

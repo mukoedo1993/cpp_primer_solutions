@@ -1,0 +1,19 @@
+Our target is: super
+Then, our elements are:
+
+hero
+once
+realize
+dream
+super
+dream
+dream
+super
+super
+have
+a
+good
+time
+realize
+
+Conclusion: for exercise 10_2: super has occured 3 time(s).

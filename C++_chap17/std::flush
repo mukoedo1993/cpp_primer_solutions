@@ -1,0 +1,33 @@
+https://stackoverflow.com/questions/14105650/how-does-stdflush-work
+Since it wasn't answered what std::flush happens to be, here is some detail on what it actually is. std::flush is a manipulator, i.e., a function with a specific signature. To start off simple, you can think of std::flush of having the signature
+
+std::ostream& std::flush(std::ostream&);
+The reality is a bit more complex, though (if you are interested, it is explained below as well).
+
+The stream class overload output operators taking operators of this form, i.e., there is a member function taking a manipulator as argument. The output operator calls the manipulator with the object itself:
+
+std::ostream& std::ostream::operator<< (std::ostream& (*manip)(std::ostream&)) {
+    (*manip)(*this);
+    return *this;
+}
+That is, when you "output" std::flush with to an std::ostream, it just calls the corresponding function, i.e., the following two statements are equivalent:
+
+std::cout << std::flush;
+std::flush(std::cout);
+Now, std::flush() itself is fairly simple: All it does is to call std::ostream::flush(), i.e., you can envision its implementation to look something like this:
+
+std::ostream& std::flush(std::ostream& out) {
+    out.flush();
+    return out;
+}
+The std::ostream::flush() function technically calls std::streambuf::pubsync() on the stream buffer (if any) which is associated with the stream: The stream buffer is responsible for buffering characters and sending characters to the external destination when the used buffer would overflow or when the internal representation should be synced with the external destination, i.e., when the data is to be flushed. On a sequential stream syncing with the external destination just means that any buffered characters are immediately sent. That is, using std::flush causes the stream buffer to flush its output buffer. For example, when data is written to a console flushing causes the characters to appear at this point on the console.
+
+This may raise the question: Why aren't characters immediately written? The simple answer is that writing characters is generally fairly slow. However, the amount of time it takes to write a reasonable amount of characters is essentially identical to writing just one where. The amount of characters depends on many characteristics of the operating system, file systems, etc. but often up to something like 4k characters are written in about the same time as just one character. Thus, buffering characters up before sending them using a buffer depending on the details of the external destination can be a huge performance improvement.
+
+The above should answer two of your three questions. The remaining question is: When would you flush a stream? The answer is: When the characters should be written to the external destination! This may be at the end of writing a file (closing a file implicitly flushes the buffer, though) or immediately before asking for user input (note that std::cout is automatically flushed when reading from std::cin as std::cout is std::istream::tie()'d to std::cin). Although there may be a few occasions where you explicitly want to flush a stream, I find them to be fairly rare.
+
+Finally, I promised to give a full picture of what std::flush actually is: The streams are class templates capable of dealing with different character types (in practice they work with char and wchar_t; making them work with another characters is quite involved although doable if you are really determined). To be able to use std::flush with all instantiations of streams, it happens to be a function template with a signature like this:
+
+template <typename cT, typename Traits>
+std::basic_ostream<cT, Traits>& std::flush(std::basic_ostream<cT, Traits>&);
+When using std::flush immediately with an instantiation of std::basic_ostream it doesn't really matter: The compiler deduces the template arguments automatically. However, in cases where this function isn't mentioned together with something facilitating the template argument deduction, the compiler will fail to deduce the template arguments.

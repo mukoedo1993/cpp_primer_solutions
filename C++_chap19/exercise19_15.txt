@@ -1,0 +1,6 @@
+Q: What is the difference between an ordinary function pointer and a pointer to member function?
+Soln.: Pointers to member functions are not like regular pointers to functions, because member functions
+have a hidden "this" parameter, and so can only be called if you supply an object to play the role of
+"this", and use some special syntax to tell the compiler to set up the call using the hidden “this”
+parameter.
+http://umich.edu/~eecs381/handouts/Pointers_to_memberfuncs.pdf

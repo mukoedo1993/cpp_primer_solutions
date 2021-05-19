@@ -1,0 +1,10 @@
+1:
+Sequential access means the cost of accessing the 5th element is 5 times the cost of accessing the first element, 
+or at least that there is an increasing cost associated with an elements position in the set. 
+This is because to access the 5th element of the set, you must first perform an operation to find the 1st, 2nd, 3rd, and 4th elements, 
+so accessing the 5th element requires 5 operations.
+
+
+2:
+Random access means that accessing any element in the set has the same cost as any other element in the set. 
+Finding the 5th element of a set is still only a single operation.

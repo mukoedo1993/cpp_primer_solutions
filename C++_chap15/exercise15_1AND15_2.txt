@@ -1,0 +1,5 @@
+Question 15_1: What is a virtual member?
+Soln:The base class defines a s virtual those functions it expects its derived classes to define for themselves.
+
+Question 15_2: How does the protected access specifier differ from private?
+Soln: A protected member of a base class allows its derived classes to use but still prohibits access to those same members by other users.

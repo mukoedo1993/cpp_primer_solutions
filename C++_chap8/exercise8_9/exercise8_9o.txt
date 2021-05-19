@@ -1,0 +1,40 @@
+Name is:
+book
+Length is:
+20.000000
+Width is:
+3.000000
+
+
+Name is:
+Algebra
+Length is:
+21.000000
+Width is:
+3.000000
+
+
+Name is:
+Geometrics
+Length is:
+28.000000
+Width is:
+29.000000
+
+
+Name is:
+Group
+Length is:
+12.000000
+Width is:
+3.000000
+
+
+Name is:
+Ring
+Length is:
+13.000000
+Width is:
+4.000000
+
+

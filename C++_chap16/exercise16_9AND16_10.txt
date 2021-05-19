@@ -1,0 +1,8 @@
+Q1: What is a function template? What is a class template?
+A: A function template is a formula from which we can generate type-specific versions of that function.
+
+
+
+Q2: WHat happened when a class template is instantiated?
+A: When we use a class template, we must supply extra information. We can now see that extra information is a list of 
+explicit template arguments that are bound to instantiate a specific class from the template.

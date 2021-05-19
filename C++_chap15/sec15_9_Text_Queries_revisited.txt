@@ -1,0 +1,52 @@
+/*
+Our systems should support the following queries:
+1: Word queries find all the lines that match a given string:
+2: Not queries, using the ~ operator, yield lines that don't match the query
+3:Or queries, using the | operator, return lines matching either of two queries
+4: And queries, using the & operator, return lines matching both queires.
+*/
+
+//Our output: print the query, using paratheses to indicate the way in which
+//the query was intepreted. As with our original implementation, our system will
+//display lines in ascending order will not display the same line more than once.
+
+/* An Object-Oriented Solution */
+//WordQuery //Daddy
+//NotQuer //~Alice
+//OrQuery //hair||Alice
+//AndQuery //hair&Alice
+
+//1: eval, which takes a TextQuery object and returns a QueryResult. The eval
+//function will use the given TextQuery object to find the query's the matching lines.
+
+//2: rep, which returns the string representation of the underlying query. This function will
+//be used by eval to create a QueryResult representing the match and by the output operator to
+//print the quey expression.
+
+/* Abstract Base Class */
+//As we've seen, our four query types are not related to one another by interface, they are
+//conceptually siblings. Each class shares the same interface, which suggests that we'll need
+//to define an abstract base class to represent that interface. We'll name our abstract base class
+//Query_base, indicating that its role is to serve as the root of our query hierarchy.
+//Our Query_base class will define eval and rep as pure virtual functions. Each of our
+//classes that represents a particular lomd pf qiery must override these functions. We'll derive 
+//WordQuery and NotQuery directly from Query_base. The AndQuery and OrQuery classes share one
+//property that the other classes in our system do not: Each has two operands.
+
+
+//This problem description implicitly suggests that user-level code won't use  the inherited classes 
+//directly. Instead, we'll define an interface class named Query, which will hide the hierachy. 
+//The Query class will provide the same operations as the Query_base classes: eval to evaluate the
+//associated query, and rep to generate a string version of the query.
+//Users will create and manipulate Query_base objects only indirectly through operations on Query objects.
+
+//We'll define three overloaded operators on Query objects, along with a Query constructor that takes
+//a string. Each of these functions will dynamically allocate a new object of a type derived from 
+//Query_base.
+
+//The & operator will generate a Query bound to a new AndQuery.
+//The | operator will generate a Query bound to a new OrQuery.
+//The ~ operator will generate a Query bound to a new NotQuery
+//The Query constructor that takes a string will generate a new WordQuery.
+
+

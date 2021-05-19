@@ -1,0 +1,17 @@
+Exercise13_20:
+Copy TextQuery or QueryResult
+
+The data member (built-in type, class type, smart pointer and container) of the class is copyed, in which the smart pointer is copyed and the reference count is increased.
+
+Assign TextQuery or QueryResult
+
+The data member (built-in type, class type, smart pointer and container) of the class is copyed, in which the smart pointer is copyed and the new reference count is increased, the old reference count is decreased.
+
+Destory TextQuery or QueryResult
+
+The data member (built-in type, class type, smart pointer and container) of the class is destroyed, in which the smart pointer is destroyed and the reference count is decreased.
+
+Exercise 13_21:
+No. As soon as the dynamic object is managed by a shared_ptr, we don't need a defined destructor. Then, using the rule of thumb, we also do not need our own versions of the 
+copy-control member.
+

@@ -1,0 +1,2 @@
+See:
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap19/sec19_6_union_a_space_saving_class/sec19_6_part3.cpp

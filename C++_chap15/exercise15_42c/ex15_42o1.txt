@@ -1,0 +1,34 @@
+The range of numbers (of lines) we are going to seek: 
+1 3 5 7 9 
+
+Our first requirement: 
+Time: 19:14:22
+Date: Oct 13 2020
+
+Time: 19:14:22
+Date: Oct 13 2020
+
+
+Our first requirement: 
+( | to) occurs 4 times
+	(line 3)of theory, and innocence must not lead one to ignore this. The science of arrest is an important 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+
+Our Second requirement: 
+(to | ) occurs 4 times
+	(line 3)of theory, and innocence must not lead one to ignore this. The science of arrest is an important 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+
+Our third requirement: 
+( | ) occurs 0 time
+
+Our control group: 
+to occurs 4 times
+	(line 3)of theory, and innocence must not lead one to ignore this. The science of arrest is an important 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 

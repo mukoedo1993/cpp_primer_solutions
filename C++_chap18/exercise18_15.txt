@@ -1,0 +1,6 @@
+Q: Explain the differences between using declarations and directives.
+Soln:
+A using declaration introduces only one namespace member at a time. IT allows
+us to be very specific regarding which names are used in our programs.
+A using directive, like a using declaration, allow us the unqualified form of a namespace
+name. 

@@ -1,0 +1,8 @@
+The author is: Su. 
+We can find the first but not the second of Su Suzh
+The author is: SU. 
+We cannot find SU SUZHE
+The author is: Su. 
+We can find the pair and erase it: Su Suzhe
+The author is: J. 
+We can find the pair and erase it: J Jo

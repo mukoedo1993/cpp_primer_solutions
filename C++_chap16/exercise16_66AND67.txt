@@ -1,0 +1,17 @@
+Q1: What are the advantages and disadvantages of overloading these debug_rep functions as compared to defining specializations?
+A1: 
+Moral #1: If you want to customize a function base template and want that customization to participate in overload resolution 
+(or, to always be used in the case of exact match), make it a plain old function, not a specialization. 
+And, if you do provide overloads, avoid also providing specializations.
+But what if you're the one who's writing, not just using, a function template?
+Can you do better and avoid this (and other) problem(s) up front, for yourself and for your users? Indeed you can:
+
+Moral #2: If you're writing a function base template, prefer to write it as a single function template that should never be specialized or overloaded, 
+and then implement the function template entirely as a simple handoff to a class template containing a static function with the same signature. 
+Everyone can specialize that -- both fully and partially, and without affecting the results of overload resolution.
+
+Q2: Would defining these specializations affect function matching for debug_rep? If so, how? If not, why not?
+A2: See A1.
+
+Reference: 
+http://www.gotw.ca/publications/mill17.htm

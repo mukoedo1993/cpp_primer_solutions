@@ -1,0 +1,6 @@
+0! 6!8!
+neo: 1
+The result for vector is:
+1; 1; 3; 5; 13; 21; 55; 89; 
+The result for list is:
+0; 2; 8; 

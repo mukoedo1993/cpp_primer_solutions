@@ -1,0 +1,6 @@
+The destructor is called when:
+1: Variables are destroyed when they go out of scope.
+2: Members of an object are destroyed when the object of which they are  a part is destroyed.
+3: Elements in a container--whether a library container or an array--are destroyed when the container is destroyed.
+4: Dynamically allocated objects are destroyed when the delete operator is applied to a pointer to the object.
+5: Temporart objects are destroyed at teh end of the full expression in which the temporary was created.

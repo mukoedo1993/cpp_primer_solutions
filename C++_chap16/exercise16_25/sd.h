@@ -1,0 +1,1 @@
+struct Sales_data{};

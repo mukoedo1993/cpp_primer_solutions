@@ -1,0 +1,4 @@
+Q: Although unique_ptr cannot be copied, in 12.1.5 we wrote a clone function that returned a unique_ptr. Explain why that function is legal and how it works.
+
+A: For such case, move semantics is expected rather than copy operation.
+That's why a unique_ptr may be returned from a function by value.

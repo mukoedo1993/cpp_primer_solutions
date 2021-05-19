@@ -1,0 +1,10 @@
+1: If a class has a data member that cannot be dfault constructed, copied, assigned or destroyed, then the corresponding member will be a deleted function.
+
+2: A member that has a deleted or inaccessible destructor causes the synthesized default and copy constructor to be defined as deleted. 
+
+3: The compiler will not syntheszie a default constructor for a class with a reference member or a const member that cannot be default constructed.
+
+4: Although we can assign a new value to a reference, doing so changes the value of the object to which the reference refers.
+If the copy-assignment operator were synthesized for such classes, the left-hand operand would continue to refere to the same object as it did before the assignment.
+It would not refer to the same object as the right-hand operand. Because this behavior is unlikely to be desired, the synthesized copy-assignment operator is defined as
+deleted if the class has a reference member.

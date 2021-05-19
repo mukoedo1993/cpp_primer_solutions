@@ -1,0 +1,3 @@
+Q: Is it ever useful to declare a member function as both override and final? Why or why not?
+A: Yes. Override simply indicates that this function overrides a function from a direct or indirect base class. The keyword, final, simply means that this function
+cannot be overriden by the its class's derived class.

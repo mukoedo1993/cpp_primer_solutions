@@ -1,0 +1,17 @@
+exercise 13_9:
+Q1:What is a destructor? Q2:What does the synthesized destructor do? Q3:When is a destructor synthesized?
+A1: Destructors do whatever work is needed to free the resources used by an object and destroy the nonstatic data members of the object.
+A2://The destructor operates inversely to the constructors:
+//1: Constructors initialize the nonstatic data members of an object and may do other work;
+//2:destructors do whatever work is needed to free the resources used by an object and destroy the
+//nonstatic data members of the object.
+//3: In a destructor, the function body is executed first and then the members are destroyed. Members
+// are destroyed in reverse order from the order in which they were initialized.
+A3: For any class that does not define its own destructor.
+
+exercise 13_10:
+Q:What happens when a StrBlob object is destroyed? What about a StrBlobPtr?
+A:
+When a StrBlob object destroyed, the use_count of the dynamic object will decrement. It will be freed if no shared_ptr to that dynamic object.
+When a StrBlobPter object is destroyed the object dynamically allocated will not be freed.
+https://github.com/Mooophy/Cpp-Primer/tree/master/ch13

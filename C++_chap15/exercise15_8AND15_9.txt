@@ -1,0 +1,9 @@
+exercise 15_8:
+Q: Define static type and dynamic type.
+A:The static type of an expression is always known at compile time-- it is the type with which a variable is declared or that
+an expression yields. The dynamic type is the type of the object in memory that the variable or expression represents.
+
+exercise 15_9:
+Q: When is it possible for an expression's static type to differ from the dynamic type? Give three examples in which the static and dynamic type differ.
+A:
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap15/sec15_2_3_conversions_and_inheritance.cpp

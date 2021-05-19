@@ -1,0 +1,33 @@
+Q: Why is it important that the what function doesn't throw?
+
+A: I think there's nothing unclear - it's just as you described. If .what() method of an exception class throws an error, the whole catch effort was wasted...
+I think there's nothing unclear - it's just as you described. If .what() method of an exception class throws an error, the whole catch effort was wasted:
+
+try {
+  someDangerousOperation();
+}
+catch(std::exception e) {
+  // Ooops, instead of false,
+  //we get another exception totally unrelated to original error
+  someLogClassOrWhatever.save(e.what());
+  return false;
+}
+return true;
+And Imagine the crazy code if you were expected to deal with what()'s exceptions:
+
+try {
+  someDangerousOperation();
+}
+catch(std::exception e) {
+  // Not very fun
+  try {
+    someLogClassOrWhatever.save(e.what());
+  }
+  catch(...) {
+    alsoWhatHasFailedThatIsReallyGreat(); 
+  }
+  return false;
+}
+I think there's nothing more in that, probably the question is so simple it seems there must be some catch hiding in it. I think it's not the case.
+
+reference:https://stackoverflow.com/questions/34800519/is-it-important-that-what-does-not-throw-exception-classes

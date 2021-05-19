@@ -1,0 +1,2 @@
+Please check:
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap15/sec15_7_4_inherited_constructors/sec15_7_4_inherited_constructors.cpp

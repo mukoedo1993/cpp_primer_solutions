@@ -1,0 +1,2 @@
+The number of words whose size are larger then 8:
+ 11

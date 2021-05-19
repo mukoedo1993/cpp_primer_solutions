@@ -1,0 +1,12 @@
+exercise 13.29:
+Q: Explain why the calls to swap inside swap(HasPtr&,HasPtr&) do not cause a recursion loop.
+A:swap(lhs.ps, rhs.ps); feed the version : swap(std::string*, std::string*) and swap(lhs.i, rhs.i); feed the version : swap(int, int). 
+Both them can't call swap(HasPtr&, HasPtr&). Thus, the calls don't cause a recursion loop.
+
+
+exercise 13.32:
+Q1: Would the pointerlike version of HasPtr benefit from defining a swap function?
+Q2: If so, what is the benefit? If not, why not?
+A:No, 
+because all the data members of pointerlike version of HasPtr are built-in types (integral, pointer) and they are swapped efficiently using library swap.
+

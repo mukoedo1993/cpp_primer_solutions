@@ -1,0 +1,5 @@
+For the sort that takes a binary predicates:
+A; a; I; a; a; a; a; is; is; be; of; in; as; of; as; an; or; in; is; to; to; if; It; For; and; are; the; the; the; ate; for; set; and; and; not; and; but; unit; used; text; than; word; that; also; both; Even; must; data; Even; data; type; used; such; name; point; could; three; marks; three; number; phrase; phrase; spaces; string; rather; string; string; numbers; example; enclose; strings; contain; integer; integer; numbers; contain; strings; variable; represent; correctly; specified; comprised; quotation; recognized; considered; characters; hamburgers; programming; programmers; 
+
+For the stable_sort that takes a binary predicates:
+A; I; a; It; an; as; be; if; in; is; of; or; to; For; and; are; ate; but; for; not; set; the; Even; also; both; data; must; name; such; text; than; that; type; unit; used; word; could; marks; point; three; number; phrase; rather; spaces; string; contain; enclose; example; integer; numbers; strings; variable; comprised; correctly; quotation; represent; specified; characters; considered; hamburgers; recognized; programmers; programming; 

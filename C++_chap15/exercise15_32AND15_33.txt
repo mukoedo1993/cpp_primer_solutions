@@ -1,0 +1,8 @@
+exercise 15_32:
+Q: What happens when an object of type Query is copied, moved, assigned, and destroyed?
+A: Its only non-function mmeber q is copied, moved, assigned and destroyed correspondingly.
+
+exercise 15_33:
+Q: What about objects of type Query_base?
+A: Query_base cannot be operated directly by user, yet by a Query object which holds a pointer to it.
+

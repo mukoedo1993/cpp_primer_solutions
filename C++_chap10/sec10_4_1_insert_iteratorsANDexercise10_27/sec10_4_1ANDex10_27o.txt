@@ -1,0 +1,11 @@
+list=== { 1,2,3,4 }:
+lst2: by by one:
+4; 3; 2; 1; 
+
+lst3: by by one:
+1; 2; 3; 4; 
+
+exercise10_27:
+The original elements are:
+1; 4; 4; 4; 8; 7; 8; 16; 13; 15; 15; 8; 16; YThe new list is:
+1; 4; 8; 7; 8; 16; 13; 15; 8; 16; 

@@ -1,0 +1,7 @@
+Q: What, if any, are the differences between a type parameter that is declared as a typename and one that is declared as a class? When must typename be used?
+A:By default, the language assumes that a name accessed through the scope operator is not a type. As a result, if we want to use a type member of a template type,
+we must explicitly tell the compiler that the name is a type. We do so by using the keyword typename, rather than class.
+
+
+Unlike type template parameter declaration, template template parameter declaration can only use the keyword class and not typename.(until c++17)
+......

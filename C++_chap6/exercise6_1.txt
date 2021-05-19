@@ -1,0 +1,1 @@
+1: Arguments are the initializers for a function's parameters. The first argument initializes the first parameter, the second argument initializes the second parameter, and so on.

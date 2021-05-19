@@ -1,0 +1,2 @@
+exercise16_51 AND exercise 16_52:
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap16/sec16_4_variadic_templates.cpp

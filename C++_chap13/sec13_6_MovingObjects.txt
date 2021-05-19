@@ -1,0 +1,6 @@
+To move an object rather than copy one:
+In some cases, an object is immediately destroyed after it is copied.
+In these cases, moving rather than copying--->can provide a siginificant performance boost.
+
+Reason1: there is no need
+2:somce classes(such as IO or unique_ptr) may not be shared. Hence, objects of these types can't be copied but can be moved.

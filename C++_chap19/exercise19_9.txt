@@ -1,0 +1,4 @@
+See
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap19/sec19_2_4_the_type_info_class.cpp
+
+Except the class std::string, all names are basically same as the anmes given in the textbook.

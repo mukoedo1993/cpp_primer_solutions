@@ -1,0 +1,3 @@
+When should you use a dynamic_cast instead of a virtual function?
+see ths discussions:
+https://stackoverflow.com/questions/12427562/dynamic-cast-vs-exposing-virtual-functions-in-parent-class-c

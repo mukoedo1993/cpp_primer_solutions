@@ -1,0 +1,9 @@
+test 1:
+13sold at index 0
+25sold at index 10
+test 2:
+13sold at index 0
+25sold at index 1
+test 3:
+25sold at index 0
+13sold at index 1

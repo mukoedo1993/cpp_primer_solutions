@@ -1,0 +1,7 @@
+Large-scale programming places greater demands on programming languages than do the needs of systems that can be developed by
+small teams of programmers. Among the needs that distinguish large-scale applications are:
+1: The ability to handle errors across independently developed subsystems
+2: The ability to use libraries developed more or less independently
+3: The ability to model more complicated application concepts
+
+

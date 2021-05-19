@@ -1,0 +1,5 @@
+We find a first string.
+first parameter: Peter
+Second parameter: John
+Our results are:
+Jonson  hAM  Jennifer  Yoshida  Row  welling  Peter  John  Johns  soda  hill  Peter  

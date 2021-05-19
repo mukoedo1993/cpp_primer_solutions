@@ -1,0 +1,2 @@
+Q: Our StrBlobPtr class does not define the copy constructor, assignment operator, or a destructor. Why is that okay?
+A: Because the 3/5 rules. In general, as soon as we don't need to deal with the dynamic memory, a destructor is needed, so other 2(4).

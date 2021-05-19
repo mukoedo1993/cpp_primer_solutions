@@ -1,0 +1,14 @@
+Q1: Describe the differences between a map and a vector.
+
+A1:A map is an associative container which contains an associative array of key-value pairs. Values are found by keys.
+A vector is an normal sequnetial container which contains a normal array of values. Values are found by position. The position is an integer.
+
+Q2: Give an example of when each of list, vector, deque, map and set might be most useful.
+
+A2: list: every time when a double-linked list is required.
+vector: every time when a dynamic array is required.
+deque: add or delete element on the front or back is required.
+map: dictionary
+set: to check the existence(e.g. the namelist of people who issued bad checks.).
+
+

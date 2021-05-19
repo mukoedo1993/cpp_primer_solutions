@@ -1,0 +1,2 @@
+Q: Why is it okay to call m[4].str() without first checking whether m[4] was matched?
+A: Because str() returns a string containing the matched portion of the input. Returns the empty string if matched is false.

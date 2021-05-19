@@ -1,0 +1,4 @@
+part 1: isShorterLambda
+A; a; a; I; a; a; a; is; in; as; an; is; to; It; is; of; of; be; if; in; to; as; or; and; but; set; and; For; the; and; the; ate; are; for; the; and; not; data; type; used; such; unit; used; text; than; that; also; word; both; Even; Even; must; data; name; point; three; three; could; marks; string; rather; spaces; phrase; phrase; string; string; number; integer; integer; numbers; contain; contain; numbers; example; strings; enclose; strings; variable; represent; comprised; specified; correctly; quotation; characters; hamburgers; considered; recognized; programming; programmers; 
+part 2: the first element whose size is larger than 3: data
+52 words larger than 3

@@ -1,0 +1,38 @@
+part 1:
+Angeles occurs 1 time.
+Changsha occurs 2 times.
+Harbin occurs 1 time.
+Heilongjiang occurs 2 times.
+Hengyang occurs 2 times.
+India occurs 2 times.
+Japan occurs 1 time.
+Korea occurs 1 time.
+LA occurs 1 time.
+Los occurs 1 time.
+Moscow occurs 1 time.
+NewYork occurs 1 time.
+Newyork occurs 1 time.
+Riben occurs 1 time.
+Russia occurs 3 times.
+Shanghai occurs 1 time.
+Taiwan occurs 3 times.
+USA occurs 1 time.
+
+
+part 2:
+Changsha occurs 2 times.
+Harbin occurs 1 time.
+Heilongjiang occurs 2 times.
+Hengyang occurs 2 times.
+Japan occurs 1 time.
+Korea occurs 1 time.
+LA occurs 1 time.
+Moscow occurs 1 time.
+NewYork occurs 1 time.
+Newyork occurs 1 time.
+Riben occurs 1 time.
+Russia occurs 3 times.
+Shanghai occurs 1 time.
+Taiwan occurs 3 times.
+USA occurs 1 time.
+Note: Notice that we excluede:Los,Angeles,India

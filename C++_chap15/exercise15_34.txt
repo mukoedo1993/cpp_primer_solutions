@@ -1,0 +1,23 @@
+Q: For the expression:
+Query q=
+
+(a):
+(i): Query::Query(const string&) three times
+(ii):AndQuery::AndQuery(const Query&,const Query&)once. Within AndQuery::AndQuery, Binary::BinaryQuery(const Query&,const Query&).
+(iii):Query::Query(shared_ptr<Query_base>query)once.
+(iv):OrQuery::OrQuery(const Query&,const Query&)once. Within OrQuery::OrQuery, Binary::BinaryQuery(const Query&,const Query&).
+(v):Query::Query(shared_ptr<Query_base>query)once.
+
+
+(b):
+We need to understand that the Query object q, is an object of Query which holds a pointer to OrQuery object.
+This OrQuery object's lhs, rhs, are both Query objects.  lhs's q is a shared_ptr to AndQuery, rhs'q is shared_ptr to WordQuery object(we call it mkft1 afterwards).
+lhs'q 
+
+(c):
+It calls its member's q's q->eval(), and then, it calls AndQuery's eval, which returns a object of QueryResult.
+
+
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap15/Exercise15_34.pdf
+might have some typos. Just see the txt file.
+https://github.com/mukoedo1993/All_files/edit/master/C++_chap15/exercise15_34.txt

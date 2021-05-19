@@ -1,0 +1,9 @@
+Expalin this loop from StrVec::reallocate:
+for(size_t i=0;i!=size();i++)
+alloc.construct(dest++;std::move(*elem++));
+
+soln.:
+It could make sure we take *elem's rvalue reference, by taking rvalue.
+Because we don't care the value from the original objects in the loop.
+
+https://github.com/Mooophy/Cpp-Primer/blob/master/ch16/ex16.42.43.44.45.46/main.cpp

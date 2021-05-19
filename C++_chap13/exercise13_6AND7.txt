@@ -1,0 +1,18 @@
+exercise 13.6:
+Q1: What is a copy-assignment operator? 
+Q2:When is this operator used? 
+Q3: What does the synthesized copy-assignment operator do?
+Q4: When is it synthesized?
+A1: =
+A2: It is used when we assign value to an object.
+A3:It assigns each nonstatic member of the right-hand object to the corresponding member of the left-hand object using the copy-assignment operator
+for the type of that member.
+A4: If the class does not define its own.
+
+
+Exercise 13.7:
+Q1: What happens when we assign one StrBlob to another? 
+Q2: What about StrBlobPtrs?
+A1:When we assign one StrBlob to another, the underlying smart pointer is copyed. 
+But the vector to which the pointer pointed is not copyed, which means both StrBlob objects will use the same vector. This may not be what we want.
+A2:

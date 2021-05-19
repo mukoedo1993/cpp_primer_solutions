@@ -1,0 +1,9 @@
+8
+A string is a data type used in programming 
+such as an integer and integer point unit 
+but is used to represent text rather than numbers
+It is comprised of a set of characters that contain also contain spaces and numbers 
+For example the word phrase and the phrase I ate three three hamburgers are both strings 
+Even could be considered a string if specified correctly 
+Even programmers must enclose strings in quotation marks for the 
+data to recognized as a string and not a number or variable name

@@ -1,0 +1,6 @@
+Putting back onto an input stream
+1: peek returns a copy of the next character stream but does not change the stream. The value returnsed by peek stays on the stream
+2:unget backs up the input stream so that whatever value was last returned is still on the stream. We can call unget even if we do not
+know what value was last taken from the stream. 
+3:putback is a more specified version of unget: It returns the last value read from the stream but takes an argument that must be the same as
+the one was last read.

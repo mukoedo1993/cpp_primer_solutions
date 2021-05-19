@@ -1,0 +1,4 @@
+Q: We did not use copy and swap to define  the Message assignment operator. Why do you suppose this is so?
+A: In this case, swap function is special. First, two folders are cleared, then swap members, and add themselves to each folder.
+But, Message assignment operator just clear itself, and copy their members, and add itself to each folder. The rhs doesn't need to
+clear and add folders. So, if using and swap to define, it will be very inefficient.

@@ -1,0 +1,92 @@
+
+Our first requirement: 
+Time: 18:30:11
+Date: Oct 13 2020
+
+Time: 18:30:11
+Date: Oct 13 2020
+
+
+Our first requirement: 
+( | to) occurs 24 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 3)of theory, and innocence must not lead one to ignore this. The science of arrest is an important 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 48)either. If the person to be arrested is vicious, then it's better to seize him outside his ordinary 
+	(line 50)places. It is essential that he have no chance to destroy, hide, or pass on anything to anyone. VIP's in 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 56)groundless. After expressing his gratitude, he hurries home, triumphant, to pack his suitcase. It is 
+	(line 58)time to spare. And there in the waiting room or at the bar he is hailed by an extraordinarily pleasant 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+
+Our Second requirement: 
+(to | ) occurs 24 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 3)of theory, and innocence must not lead one to ignore this. The science of arrest is an important 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 48)either. If the person to be arrested is vicious, then it's better to seize him outside his ordinary 
+	(line 50)places. It is essential that he have no chance to destroy, hide, or pass on anything to anyone. VIP's in 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 56)groundless. After expressing his gratitude, he hurries home, triumphant, to pack his suitcase. It is 
+	(line 58)time to spare. And there in the waiting room or at the bar he is hailed by an extraordinarily pleasant 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 
+
+Our third requirement: 
+( | ) occurs 0 time
+
+Our control group: 
+to occurs 24 times
+	(line 2)have a much broader understanding of how arrests operate. They operate according to a large body 
+	(line 3)of theory, and innocence must not lead one to ignore this. The science of arrest is an important 
+	(line 5)theory. Arrests are classified according to various criteria: nighttime and daytime; at home, at work, 
+	(line 9)differentiated by the thoroughness of the required search;by instructions either to make out or not to 
+	(line 10)make out an inventory of confiscated property or seal a room or apartment; to arrest the wife after 
+	(line 11)the husband and send the children to an orphanage, or to send the rest of the family into exile, or to 
+	(line 12)send the old folks to a labor camp too. 
+	(line 14)[And there is a separate Science of Searches too. I have had the chance to read a pamphlet on this 
+	(line 16)officials who in the course of their searches went so far as to turn over two tons of manure, eight 
+	(line 20)and even tore out metal teeth in the search for microfilm. Students were advised to begin and to end 
+	(line 22)something that had already been examined). They were also advised to return to the site of a search 
+	(line 26)Comintern two front-row tickets to the Bolshoi Theatre. Interrogator Klegel was courting her at the 
+	(line 30)time and she invited him to go with her. They sat through the show very affectionately, and when it 
+	(line 31)was over he took her — straight to the Lubyanka. And if on a flowering June day in 1927 on 
+	(line 40)delivered to him in his first cell. No, one certainly cannot say that daylight arrest, arrest during a 
+	(line 43)men, have conducted themselves in the noblest conceivable manner, so as to spare the living from 
+	(line 47)then it has to be the house manager or else the postman). And not everyone can be arrested at work 
+	(line 48)either. If the person to be arrested is vicious, then it's better to seize him outside his ordinary 
+	(line 50)places. It is essential that he have no chance to destroy, hide, or pass on anything to anyone. VIP's in 
+	(line 52)car, and then arrested en route. Some obscure, ordinary mortal, scared to death by epidemic arrests 
+	(line 54)summoned to the local Party committee, where he is beamingly presented with a vacation ticket to a 
+	(line 56)groundless. After expressing his gratitude, he hurries home, triumphant, to pack his suitcase. It is 
+	(line 58)time to spare. And there in the waiting room or at the bar he is hailed by an extraordinarily pleasant 
+	(line 61)concern: "Come now, how can that be? I'll have to remind you. ..." And he bows respectfully to 

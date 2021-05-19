@@ -1,0 +1,7 @@
+Q17_31: What would happen if we defined b and e inside the do loop of the game-playing program from this section?
+A:Because engines return the same sequence of numbers, it is essential that we declare engines outside of loops. Otherwise, we'd create
+a new engine on each iteration and generate the same values on each iteration. Similarly, distributions may retain state and should also be
+defined outside loops.
+
+Q17_32: What would happen if we defined resp inside the loop?
+A: It will become much more difficult to define the string.

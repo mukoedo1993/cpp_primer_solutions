@@ -1,0 +1,4 @@
+Check my solutions here:
+https://github.com/mukoedo1993/All_files/blob/master/C%2B%2B_chap15/sec15_8_containers_and_inheritance.cpp
+
+Comment on 15_29: see the comment I made in the cpp file.

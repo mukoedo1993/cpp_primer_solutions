@@ -1,0 +1,11 @@
+For exercise 10_11:
+The process: 
+The sorted words are:
+A; Even; Even; For; I; It; a; a; a; a; a; also; an; and; and; and; and; are; as; as; ate; be; both; but; characters; comprised; considered; contain; contain; correctly; could; data; data; enclose; example; for; hamburgers; if; in; in; integer; integer; is; is; is; marks; must; name; not; number; numbers; numbers; of; of; or; phrase; phrase; point; programmers; programming; quotation; rather; recognized; represent; set; spaces; specified; string; string; string; strings; strings; such; text; than; that; the; the; the; three; three; to; to; type; unit; used; used; variable; word; 
+After put all repeated words at the end:
+A; Even; For; I; It; a; also; an; and; are; as; ate; be; both; but; characters; comprised; considered; contain; correctly; could; data; enclose; example; for; hamburgers; if; in; integer; is; marks; must; name; not; number; numbers; of; or; phrase; point; programmers; programming; quotation; rather; recognized; represent; set; spaces; specified; string; strings; such; text; than; that; the; three; to; type; unit; used; variable; word; ; ; ; ; ; string; string; ; strings; ; ; ; ; ; the; the; ; three; ; to; ; ; ; used; ; ; 
+Then,delete all repeated words:
+A; Even; For; I; It; a; also; an; and; are; as; ate; be; both; but; characters; comprised; considered; contain; correctly; could; data; enclose; example; for; hamburgers; if; in; integer; is; marks; must; name; not; number; numbers; of; or; phrase; point; programmers; programming; quotation; rather; recognized; represent; set; spaces; specified; string; strings; such; text; than; that; the; three; to; type; unit; used; variable; word; 
+
+for exercise 10_11, our result is:
+A; I; a; It; an; as; be; if; in; is; of; or; to; For; and; are; ate; but; for; not; set; the; Even; also; both; data; must; name; such; text; than; that; type; unit; used; word; could; marks; point; three; number; phrase; rather; spaces; string; contain; enclose; example; integer; numbers; strings; variable; comprised; correctly; quotation; represent; specified; characters; considered; hamburgers; recognized; programmers; programming; 

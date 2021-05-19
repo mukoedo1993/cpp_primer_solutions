@@ -1,0 +1,3 @@
+Q: What is the difference between an ordinary data pointer and a pointer to a data member?
+A: A pointer to member is a pointer that can point to a nonstatic member of a class. Normally a pointer 
+points to an object, but a pointer to member identifies a member of a class, not an object of a class.

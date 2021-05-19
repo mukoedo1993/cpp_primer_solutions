@@ -1,0 +1,19 @@
+part 1:
+Exercise11_4:
+angeles occurs 1 time.
+changsha occurs 5 times.
+harbin occurs 1 time.
+heilongjiang occurs 3 times.
+hengyang occurs 2 times.
+india occurs 2 times.
+japan occurs 1 time.
+korea occurs 1 time.
+la occurs 2 times.
+los occurs 1 time.
+moscow occurs 1 time.
+newyork occurs 3 times.
+riben occurs 2 times.
+russia occurs 3 times.
+shanghai occurs 1 time.
+taiwan occurs 3 times.
+usa occurs 1 time.
